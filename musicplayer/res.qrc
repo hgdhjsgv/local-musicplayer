@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon/cyc.png</file>
+        <file>icon/list.png</file>
+        <file>icon/next.png</file>
+        <file>icon/order.png</file>
+        <file>icon/play.png</file>
+        <file>icon/pre.png</file>
+        <file>icon/ramdon.png</file>
+        <file>icon/stop.png</file>
+        <file>images/bk0.jpg</file>
+        <file>icon1/cyc.png</file>
+        <file>icon1/next.png</file>
+        <file>icon1/order.png</file>
+        <file>icon1/play.png</file>
+        <file>icon1/pre.png</file>
+        <file>icon1/ramdon.png</file>
+        <file>icon1/stop.png</file>
+        <file>icon1/list.png</file>
+        <file>icon1/mute.png</file>
+        <file>icon1/sound.png</file>
+        <file>images/bk1.jpg</file>
+        <file>images/bk2.jpg</file>
+        <file>images/bk3.jpg</file>
+        <file>icon1/bkg.png</file>
+    </qresource>
+</RCC>
